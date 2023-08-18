@@ -1,0 +1,1 @@
+docker run --name mriya-db -p 5606:5432 -e POSTGRES_USER=mriya_top -e POSTGRES_PASSWORD=somepassword -d postgres:12

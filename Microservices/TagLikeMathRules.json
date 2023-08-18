@@ -1,0 +1,16 @@
+{
+  "MinValueCount": 0,
+  "MaxValueCount": 100,
+  "PercentOfStandart": 20,
+  "PercentOfStandartStartup": 70,
+  "PostgreConncection": "server=localhost; Port=5606; database=mriya_top; Username=mriya_top; password=M8r4i2Y6a5U5a",
+  "RabbitMQHostName": "89.105.243.157",
+  "RabbitMQPort": 5672,
+  "RabbitMQUserName": "user",
+  "RabbitMQPassword": "password",
+  "QueueLike": "likes",
+  "QueueStartup": "stat_startup",
+  "RecomendationIP": "89.105.243.157",
+  "HTTPRecomendationPort": 7265,
+  "HTTPSRecomendationPort": 7266
+}

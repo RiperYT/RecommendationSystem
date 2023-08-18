@@ -1,0 +1,1 @@
+.\bin\psql.exe -U mriya_top -p 5606 -a -f mriya-dump.sql

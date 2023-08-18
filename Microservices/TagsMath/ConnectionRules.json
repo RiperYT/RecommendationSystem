@@ -1,0 +1,8 @@
+{
+  "PostgreConncection": "server=localhost; Port=5606; database=mriya_top; Username=mriya_top; password=M8r4i2Y6a5U5a",
+  "RabbitMQHostName": "89.105.243.157",
+  "RabbitMQPort": 5672,
+  "RabbitMQUserName": "user",
+  "RabbitMQPassword": "password",
+  "QueueName": "likes"
+}

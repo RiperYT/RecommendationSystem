@@ -1,0 +1,1 @@
+.\bin\pg_dump.exe -U mriya_top --dbname="mriya_top" -p 5606 --file="mriya-dump.sql" --clean --if-exists --create --schema-only
